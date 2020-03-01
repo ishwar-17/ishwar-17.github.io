@@ -1,0 +1,481 @@
+
+/*======================= Landscape Phones and Portrait Tablets sSarts ========================*/
+@media (max-width: 767px) {
+	.navbar-brand>img{
+		width: 27px;
+	    margin-top: 7px;
+	    height: auto;
+	}
+	.container-banner-images{
+   		height: 406px;
+	    min-height: 417px;
+	    max-height: 500px;
+  	}
+  	.container-position {
+	    left: -14px;
+	    top: 16%;
+	}
+	.Efficient-Transpare {
+    	padding: 10px 10px 10px 19px;
+	}
+	.Efficient-Transpare h4 {
+	    font-size: 29px;
+	    line-height: 1.20;
+	    letter-spacing: 1px;
+	    color: #ffffff;
+	    text-align: center;
+	}
+	.Rectangle-2{
+		text-align:center;
+	}
+	.Rectangle-2 {
+	    padding: 28px 17px;
+	}
+	.Rectangle-2 p{
+		text-align: center
+	}
+	.Rectangle-margin{
+		margin-top:10px;
+	}
+	.Sell-Shares {
+	  padding: 8px 67px;
+	}
+	.grid-mobile{
+		margin-bottom:15px;
+	}
+	.grid-mobile-button{
+		padding:8px 87px;
+	}
+	.container-section {
+	    padding: 15px;
+	}
+	.Investors-50-Countries span{
+	  	font-size: 13px;
+	  	font-weight: 600;
+	  	letter-spacing: 1.3px;
+	  	margin:3px;
+	}
+	.container-what-we-do {
+	    padding-bottom: 15px;
+	}
+	.combined-group {
+	    padding-top: 35px;
+	    opacity: 0.8;
+	    height: 245px;
+	    background-size: contain;
+	}
+	.combined-group h4 {
+	    font-size: 20px;
+	    font-weight: bold;
+	    text-align: center;
+	    color: #2e38fe;
+	    margin-top: 22px;
+	    margin-bottom: 50px;
+	}
+	.combined-group h4::after{
+		content: ""; 
+		background: #2e38fe; /*#1cafdf*/
+		height: 3px;
+	    position: absolute;
+	    width: 29%;
+	    left: 36%;
+	    top: 60% 
+	}
+	.Extensive-investor-n {
+	    padding: 14px;
+	    opacity: 0.7;
+	    background-color: #fafafa;
+	    border: solid 1px rgba(0, 0, 0, 0.1);
+	    height: 155px;
+    	min-height: 155px;
+	    -webkit-transition-duration: 0.4s;
+	    transition-duration: 0.4s;
+	}
+	.Extensive-investor-n:hover{
+		border-color:#5510bc;
+	}
+	.Extensive-investor-n p{
+		color:#000;
+	}
+	.container-how-its-work {
+	    padding:15px;
+	}
+	.how-its-work {
+	    padding-bottom: 13px;
+	}
+	.how-its-work h4{
+		font-size: 20px
+	}
+	.how-its-work h4::after{
+		content: ""; 
+		background: #2e38fe; /*#1cafdf*/
+		height: 3px;
+	    position: absolute;
+		width: 36%;
+	    left: 33%;
+	    bottom: 11%;
+	}
+	.message-item .message-head .user-detail h5 {
+	    font-size: 15px;
+	    font-weight: 100;
+	    margin: 0;
+	    letter-spacing: 0;
+	}
+	.message-item1 .message-head1 .user-detail1 h5 {
+	    font-size: 15px;
+	    font-weight: 100;
+	    margin: 0;
+	    letter-spacing: 0;
+	}
+	.container-feature-deals{
+		padding:15px;
+	}
+	.feature-deals{
+		padding:0;
+	}
+	.feature-deals h4 {
+	    font-size: 20px;
+	    font-weight: bold;
+	    color: #2e38fe;
+	    margin-bottom: 45px;
+	}
+	.feature-deals h4::after{
+		content: ""; 
+		background: #2e38fe; /*#1cafdf*/
+		height: 3px;
+	    position: absolute;
+		width: 36%;
+	    left: 33%;
+	    top: 5%;
+	}
+	.view-deals{
+		padding: 8px 76px;
+	}
+	.Rectangle-10{
+		border: solid 1px rgba(0, 0, 0, 0.1);
+		-webkit-transition-duration: 0.4s;
+	    transition-duration: 0.4s;
+	}
+	.Rectangle-10:hover{
+		border-color:#5510bc;
+	}
+	.feature-deals-img{
+		-webkit-filter: contrast(180%);
+    	filter: contrast(180%);
+	}
+	#quote-carousel {
+	  	padding: 15px 1px 19px 0px;
+    }
+
+	.item p {
+	    font-size: 17px;
+	    font-weight: 300;
+	    line-height: 1.5;
+	    letter-spacing: 0.3px;
+	    color: #111111;
+	    text-align: justify;
+	}
+	.item cite {
+	    font-size: 15px;
+	    letter-spacing: 0.3px;
+	    color: #792ced;
+	    float: right;
+	    margin-top: 6px;
+	}
+	.container-new-letters{
+		padding:0;
+	}
+	.New-Letters-In-Our{
+		padding-top:15px;
+		padding-bottom:15px;
+	}
+	.New-Letters-In-Our p {
+	    line-height: 1.7;
+	    font-size: 17px;
+	    text-align: center;
+	    color: #ffffff;
+	    letter-spacing: 1px;
+	}
+	.grid-padding{
+		padding-left:0;
+		padding-right:0;
+	}
+	.grid-mobile-subscrbe{
+		margin-bottom:10px;
+	}
+	.email-form-control {
+	    font-size: 13px;
+	}
+	.container-footer{
+	    padding:0;
+	}
+	.grid-our-vision-mobile{
+		padding-top:25px;
+	}
+	.container-footer h4{
+		text-align: center;
+	}
+	.container-footer p{
+		text-align: center;
+		padding: 0;
+		font-size:16px;
+	}
+	.quick-links{
+		text-align: center;
+	}
+	.quick-links li>a{
+		font-size:16px;
+	}
+	.container-footer h5{
+		text-align: left;
+	}
+	.container-footer h5 {
+	    font-size: 16px;
+	}
+	/*.#overlay-scrollbar{
+	  overflow-y:scroll;
+	  height:100px;
+	}*/
+	.overlay p{
+		padding:2px;
+	}
+	.overlay{
+		height:89.8%;
+	}
+	.thumbnail{
+		margin-bottom:0;
+	}
+}
+/*======================= Landscape Phones and Portrait Tablets Ends ==========================*/
+
+
+/*======================= Portrait Tablets and Small Desktops Starts ==========================*/
+@media (min-width: 768px) and (max-width: 991px) {
+	.container-position {
+	    left: 0;
+    	top: 30%;
+	}
+	.container-section {
+	    padding: 20px 0; */
+	}
+	.Efficient-Transpare h4 {
+	    font-size: 36px;
+	}
+	/*.navbar-custom {
+	    padding: 26px 0;
+	}*/
+	.Rectangle-margin {
+	    margin-top: 0;
+	}
+	.Rectangle-2 {
+    	padding: 40px 17px;
+   	}
+   	.Sell-Shares {
+    	padding: 10px 102px;
+    }
+    .Extensive-investor-n {
+	    height: 139px;
+    	min-height: 139px;
+	}
+    .grid-tablet{
+    	margin-bottom:18px;
+    }
+    /*.combined-group h4::after {
+	    content: "";
+	    background: #2e38fe;
+	    height: 3px;
+	    position: absolute;
+	    width: 16%;
+	    left: 42%;
+	    top: 40%;
+	}*/
+    .combined-group {
+    	padding-top: 30px;
+    }
+    .combined-group h4 {
+	    margin-top: 20px;
+	    margin-bottom: 35px;
+	}
+	.container-what-we-do {
+	    padding-bottom: 25px;
+	}
+	.container-how-its-work {
+	    padding: 10px 0;
+	}
+	.how-its-work {
+	    padding-bottom: 3px;
+	}
+	.container-feature-deals {
+	    padding: 0;
+	}
+	.feature-deals-img{
+		-webkit-filter: contrast(200%);
+    	filter: contrast(200%);
+	}
+	.feature-deals {
+	    padding: 15px;
+	}
+	.feature-deals h4 {
+	    margin-bottom: 45px;
+	}
+	/*.how-its-work h4::after {
+	    content: "";
+	    background: #2e38fe;
+	    height: 3px;
+	    position: absolute;
+	    width: 18%;
+	    left: 41%;
+	    bottom: 1%;
+	}*/
+	/*.feature-deals h4::after {
+	    content: "";
+	    background: #2e38fe;
+	    height: 3px;
+	    position: absolute;
+	    width: 18%;
+	    left: 41%;
+	    top: 16%;
+	}*/
+	.New-Letters-In-Our{
+		padding:26px;
+	}
+	.container-new-letters {
+	    padding:0px;
+	}
+	.btn-subscribe{
+		padding:9px 10px;
+	}
+	.container-footer {
+	    padding: 30px 0;
+	}
+	.container-footer p {
+	    padding: 0;
+	}
+	.overlay p{
+		padding:2px;
+	}
+	.overlay{
+		height:98.8%;
+	}
+	.thumbnail{
+		margin-bottom:0;
+	}
+}
+/*======================= Portrait Tablets and Small Desktops Ends ============================*/
+
+
+/*======================= Landscape Tablets and Medium Desktops Starts ========================*/
+@media (min-width: 992px) and (max-width: 1199px) {
+	.container-position {
+	    left: 1%;
+	    top: 26%;
+	}
+	.Efficient-Transpare h4 {
+	    font-size: 47px;
+	}
+	.Rectangle-margin {
+	    margin-top: 55px;
+	}
+	.Sell-Shares {
+	    padding: 10px 77px;
+	}
+	.Invest-button{
+		padding:10px 97px;
+	}
+	.combined-group h4 {
+	    margin-top: 25px;
+	    margin-bottom: 35px;
+	}
+	.thumbnail{
+		margin-bottom:0;
+	}
+	.container-what-we-do {
+	    padding-bottom: 20px;
+	}
+	.container-how-its-work {
+	    padding: 15px;
+	}
+	.container-feature-deals {
+	    padding: 25px 0;
+	}
+	.feature-deals h4 {
+	    margin-bottom: 30px;
+	}
+	.container-new-letters {
+	    padding:25px 0;
+	}
+	.container-footer {
+	    padding: 35px 0;
+	}
+	.overlay p{
+		padding:1px;
+	}
+	.overlay{
+		height:99.8%;
+	}
+	.Rectangle-10 {
+	    padding: 26px;
+	}
+	.feature-deals-img{
+		-webkit-filter: contrast(250%);
+    	filter: contrast(250%);
+	}
+	.item p {
+	    font-size: 20px;
+   	}
+   	.item cite {
+	    font-family: MuseoSans;
+	}
+	.New-Letters-In-Our h4 {
+	    font-size: 20px;
+	}
+	.New-Letters-In-Our p {
+	    font-size: 20px;
+	}
+	.container-footer h5 {
+	    font-size: 17px;
+	}
+	.container-footer p {
+	    padding: 0;
+	}
+	.container-footer h4 {
+	    font-size: 20px;
+	}
+	.email-form-control {
+	    font-size: 17px;
+	}
+}
+/*======================= Landscape Tablets and Medium Desktops Ends ========================*/
+
+@media (min-width: 768px) {
+  	.navbar-custom {
+    	background-color: transparent;
+	    padding: 39px 0;
+	    -webkit-transition: padding 0.5s;
+	    -moz-transition: padding 0.5s;
+	    transition: padding 0.5s;
+	    border: none;
+  	}
+  	.navbar-custom .navbar-brand {
+	    font-size: 2em;
+	    -webkit-transition: all 0.5s;
+	    -moz-transition: all 0.5s;
+	    transition: all 0.5s;
+  	}
+	.navbar-custom .navbar-nav > .active > a {
+	    border-radius: 0;
+	}
+}
+@media (min-width: 768px) {
+  	.navbar-custom.affix {
+	    background-color: #33334d;
+	   	padding: 12px 0;
+	    box-shadow: 0 0 14px 2px rgba(0, 0, 0, 0.8);
+  	}
+  	.navbar-brand>img{
+		width: 35px;
+	    margin-top: 2px;
+	    height: auto;
+  	}
+}
+
